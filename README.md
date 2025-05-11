@@ -1,5 +1,5 @@
 
-# BFHL Python Qualifier - Akshara Joshi
+# bajaj python code - Akshara Joshi
 
 ## Problem Statement
 Build a Python application that:
